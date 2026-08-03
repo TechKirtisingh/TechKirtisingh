@@ -10,6 +10,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Java+DSA+Practitioner;Python+Developer;Always+Learning+Something+New"/>
 </p>
 
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1b-88a0-7f7a82d1c6f8.gif" width="320">
+</p>
+
 ## 💫 About Me
 
 - 🎓 B.Tech Computer Science student.
@@ -38,12 +42,13 @@
 
 ## 🚀 Featured Projects
 
-- AI Resume Screening System
-- Disease Prediction from Medical Data
-- Sentiment Analysis App
-- Car Price Prediction
-- School Website
-- Portfolio Website
+| Project | Description | Tech Stack | Live Demo |
+|----------|-------------|------------|-----------|
+|  🐍 Snake Game  | A Snake Game developed using HTML, CSS, and JavaScript | HTML, CSS, and JavaScript  | 🌐http://kirtisingh.me/Snake-Game/ |
+| 😊 Sentiment Analysis | Analyze text sentiment with ML | Python, Streamlit | 🌐https://sentiment-app--analysis-6fw48jv2elwpheignatkuz.streamlit.app/ |
+| 🚗 Car Price Prediction | Predict car prices using regression | Python, Streamlit | 🌐https://carpricepredictionprojecttt.streamlit.app/ |
+| 💬 Email-SMS Threat classifier |  SMS & Email Spam Detection | Python, Streamlit | 🌐https://sentinelspam-ai-next-gen-email-sms-threat-classifier.streamlit.app/ |
+| 💬AI Resume Screening | analyze resumes, compare candidate skills, and identify the most suitable applicants based on relevant qualifications and experience  | Python,NLP | 🌐https://nnnairesume.streamlit.app/ |
 
 ## 🌱 Currently Learning
 
@@ -61,23 +66,19 @@
 <a href="https://github.com/TechKirtisingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
-## 🐍 Snake
+## 💡 Mindset
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechKirtisingh/TechKirtisingh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 💭 Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> "Stay curious. Keep building. Never stop learning."
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=TechKirtisingh&style=for-the-badge&color=blue"/>
 </p>
+<h3 align="center">
 
----
-### ⭐ Thanks for visiting!
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+Building today, improving tomorrow, and always learning something new 🚀
+</p>
