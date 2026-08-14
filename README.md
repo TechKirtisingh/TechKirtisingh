@@ -17,7 +17,7 @@
 ## 💫 About Me
 
 - 🎓 B.Tech Computer Science student.
-- 💻 Passionate about Full-Stack Development, AI/ML and Data Analytics.
+- 💻 Passionate about Frontend developer, AI/ML and Data Analytics.
 - 🚀 Skilled in Python, Java, Django, Streamlit, FastAPI, HTML, CSS, JavaScript and MySQL.
 - 📚 Practicing Data Structures & Algorithms in Java.
 - 🌱 Learning REST APIs, System Design and Cloud Fundamentals.
