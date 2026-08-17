@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Kirti%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20DSA&descAlignY=55"/>
 </p>
 
-<h3 align="center">Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast | Data Analytics</h3>
+<h3 align="center">Computer Science Undergraduate | Front-end developer | AI/ML Enthusiast | Data Analytics</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Java+DSA+Practitioner;Python+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer;Machine+Learning+Enthusiast;Java+DSA+Practitioner;Python+Developer;Always+Learning+Something+New"/>
 </p>
 
 <p align="right">
